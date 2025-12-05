@@ -2,7 +2,7 @@
 title: test
 date: 2025-11-05 10:00:00 +0800
 categories: [博客教程,test]
-tags: [chirpy, github pages,模板]
+tags: [chirpy, github pages]
 description: 这是我的第一篇博客文章。
 ---
 
