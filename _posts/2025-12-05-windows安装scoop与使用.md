@@ -1,11 +1,10 @@
 ---
 title: windows10安装scoop与基本使用
-date: 2025-12-05 20:00:00 +0800
-categories:
-  - Windows
-tags:
-  - scoop
+date: 2025-12-05 10:00:00 +0800
+categories: [Windows]
+tags: [scoop]
 ---
+
 
 scoop可以方便我们在Windows搭建各种环境，节省手动下载、配置的功夫，节约时间成本。
 
