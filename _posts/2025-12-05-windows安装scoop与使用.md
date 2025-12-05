@@ -1,6 +1,6 @@
 ---
 title: windows10安装scoop与基本使用
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2025-12-05 20:00:00 +0800
 categories:
   - Windows
 tags:
