@@ -35,7 +35,7 @@ irm get.scoop.sh -outfile 'install.ps1'
 
 到这里scoop就安装好了，加下来进行一些scoop的基本设置
 
-![[Pasted image 20251124182506.png]]
+![windows安装scoop命令](assets/img/Pasted image 20251124182506.png)
 
 5. 添加bucket：extras和versions
 
