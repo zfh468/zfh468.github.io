@@ -1,9 +1,10 @@
 ---
-title: 如何开始写博客
-date: 2025-01-05 10:00:00 +0800
-categories: [教程, 博客]
-tags: [chirpy, github pages]
+title: test
+date: 2025-11-05 10:00:00 +0800
+categories: [博客教程,test]
+tags: [chirpy, github pages,模板]
 description: 这是我的第一篇博客文章。
 ---
 
-这里是正文内容……
+本博客仅测试使用，无实际内容
+![kita]()
