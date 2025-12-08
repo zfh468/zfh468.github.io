@@ -9,6 +9,8 @@ tags: [On-My-Zsh]
 系统:debian12
 其他Linux系统安装操作类似
 
+## 安装zsh
+
 debian默认不带zsh
 ```
 sudo apt update
@@ -32,6 +34,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 如图on-my-zsh安装成功，此时默认shell已经变成zsh
 ![](/assets/img/Pasted image 20251207203728.png)
 
+
+## zsh插件安装与使用
 
 此时zsh还没有任何插件，需要手动安装
 
