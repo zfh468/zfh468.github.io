@@ -30,7 +30,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ![](/assets/img/Pasted image 20251207203617.png)
 
 如图on-my-zsh安装成功，此时默认shell已经变成zsh
-![]()
+![](/assets/img/Pasted image 20251207203728.png)
 
 
 此时zsh还没有任何插件，需要手动安装
