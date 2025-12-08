@@ -1,7 +1,7 @@
 
 ---
-title: windows10安装scoop与基本使用
-date: 2025-12-05 10:00:00 +0800
+title: debian安装on-my-zsh
+date: 2025-12-08 20:00:00 +0800
 categories: [linux,zsh]
 tags: [on-my-zsh]
 ---
