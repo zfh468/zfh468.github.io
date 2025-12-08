@@ -47,7 +47,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git \
 ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 
-![]()
+![](/assets/img/Pasted image 20251207205128.png)
 
 
 
