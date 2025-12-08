@@ -2,7 +2,7 @@
 ---
 title: debian安装on-my-zsh
 date: 2025-12-08 20:00:00 +0800
-categories: [linux,zsh]
+categories: [Linux,Zsh]
 tags: [on-my-zsh]
 ---
 
