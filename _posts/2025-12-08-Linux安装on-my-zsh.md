@@ -27,10 +27,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 安装过程中它会询问是否要把默认shell改成zsh，直接回车即可
 
-![[Pasted image 20251207203617.png]]
+![](/assets/img/Pasted image 20251207203617.png)
 
 如图on-my-zsh安装成功，此时默认shell已经变成zsh
-![[Pasted image 20251207203728.png]]
+![]()
 
 
 此时zsh还没有任何插件，需要手动安装
@@ -47,7 +47,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git \
 ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 
-![[Pasted image 20251207205128.png]]
+![]()
 
 
 
