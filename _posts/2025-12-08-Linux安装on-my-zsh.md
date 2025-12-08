@@ -1,9 +1,9 @@
 
 ---
-title: debian安装on-my-zsh
+title: debian12安装On-My-Zsh
 date: 2025-12-08 20:00:00 +0800
 categories: [Linux,Zsh]
-tags: [on-my-zsh]
+tags: [On-My-Zsh]
 ---
 
 系统:debian12
