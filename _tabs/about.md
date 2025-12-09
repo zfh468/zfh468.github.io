@@ -12,7 +12,7 @@ order: 4
 
 - 🔐 渗透测试与漏洞挖掘
 - 🐍 Python 工具开发
-- ☁️ Linux / 服务器管理（Kali、Debian）
+- ☁️ Linux / 服务器管理
 
 ---
 
@@ -20,7 +20,5 @@ order: 4
 
 - **语言**：Python、JavaScript、Shell
 - **框架**：Flask、FastAPI
-- **工具**：Burp Suite、Nuclei、Selenium、Docker、Sqlmap
-- **系统**：Kali Linux、Ubuntu、Debian
 
 ---
