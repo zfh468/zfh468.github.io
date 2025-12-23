@@ -399,7 +399,7 @@ CMD ["/bin/bash", "/apache-run.sh"]
 构建镜像
 
 
-![[Pasted image 20251224023337.png]]
+![](assets/img/Pasted image 20251224023337.png)
 
 镜像构建成功
 
