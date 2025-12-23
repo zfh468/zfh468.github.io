@@ -1,4 +1,9 @@
-
+---
+title: Dockerfile
+date: 2025-12-24 00:00:00 +0800
+categories: [Linux,Docker]
+tags: [docker-Dockerfile]
+---
 **一、基本概念**
 
 **镜像：** `镜像`是由`多个镜像层`叠加起来的一个文件系统(通过`Union FS`与`AUFS`文件联合系统实现)，镜像层也可以理解为一个基本的镜像，每个镜像层之间通过`指针`的形式进行叠加。
