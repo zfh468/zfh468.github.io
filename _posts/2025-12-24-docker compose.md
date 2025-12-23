@@ -1,3 +1,9 @@
+---
+title: docker compose
+date: 2025-12-24 00:00:00 +0800
+categories: [Linux,Docker]
+tags: [docker-compose]
+---
 **一、什么是docker compose**
 
 `compose`是docker官方的开源项目，负责实现docker容器集群的快速编排，源代码在<https://github.com/docker/compose>
@@ -263,10 +269,10 @@ test-redis-1   redis      "docker-entrypoint.s…"   redis     12 seconds ago   
 test-web-1     test-web   "python app.py"           web       12 seconds ago   Up 12 seconds   0.0.0.0:5000->5000/tcp, [::]:5000->5000/tcp
 ```
 
-![[Pasted image 20251224041622.png]]
+![](/assets/img/Pasted image 20251224041622.png)
 
 
 访问虚拟机ip:5000
 
-![[Pasted image 20251224041748.png]]
+![](/assets/img/Pasted image 20251224041748.png)
 
