@@ -414,7 +414,7 @@ curl http://localhost
 ```
 
 
-![[Pasted image 20251224023818.png]]
+![](assets/img/Pasted image 20251224023818.png)
 
 
 
