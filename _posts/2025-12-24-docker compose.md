@@ -1,8 +1,8 @@
 ---
 title: docker compose
-date: 2025-12-24 00:00:00 +0800
+date: 2025-12-24 01:00:00 +0800
 categories: [Linux,Docker]
-tags: [docker-compose]
+tags: [Docker-compose]
 ---
 **一、什么是docker compose**
 
