@@ -399,7 +399,7 @@ CMD ["/bin/bash", "/apache-run.sh"]
 构建镜像
 
 
-![](assets/img/Pasted image 20251224023337.png)
+![](/assets/img/Pasted image 20251224023337.png)
 
 镜像构建成功
 
@@ -414,7 +414,7 @@ curl http://localhost
 ```
 
 
-![](assets/img/Pasted image 20251224023818.png)
+![](/assets/img/Pasted image 20251224023818.png)
 
 
 
