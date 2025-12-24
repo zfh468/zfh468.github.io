@@ -1,3 +1,9 @@
+---
+title: docker swarm
+date: 2025-12-24 08:00:00 +0800
+categories: [Linux,Docker]
+tags: [Docker-swarm]
+---
 **一、什么是Swarm**
 
 Swarm是Docker公司推出的用来管理docker集群的平台，几乎完全用go语言开发，源码在<https://github.com/docker/swarm>。
