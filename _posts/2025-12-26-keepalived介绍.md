@@ -1,7 +1,7 @@
 ---
 title: keepalived简介
 date: 2025-12-26 14:00:00 +0800
-categories: [高可用集群]
+categories: [高可用集群,HAProxy]
 tags: [keepalived]
 ---
 **1、什么是keepalived**
