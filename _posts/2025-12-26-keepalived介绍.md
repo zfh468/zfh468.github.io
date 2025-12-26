@@ -1,3 +1,9 @@
+---
+title: keepalived简介
+date: 2025-12-26 14:00:00 +0800
+categories: [高可用集群]
+tags: [keepalived]
+---
 **1、什么是keepalived**
 
 keepalived是使用C语言编写的路由热备软件，该项目主要是为linux系统提供简单高效的负载均衡以及高可用解决方案。
