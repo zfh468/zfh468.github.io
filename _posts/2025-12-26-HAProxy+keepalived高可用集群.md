@@ -1,8 +1,8 @@
 ---
-title: HAProxy + keepalived
+title: HAProxy + keepalived高可用集群
 date: 2025-12-26 013:00:00 +0800
-categories: [高可用集群,HAProxy]
-tags: [HAProxy高可用集群]
+categories: [高可用集群]
+tags: [HAProxy + keepalived]
 ---
 目前我的架构是：通过haproxy将来自用户的请求转发到后端的web站点。
 
