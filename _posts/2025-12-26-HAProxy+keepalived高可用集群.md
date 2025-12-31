@@ -1,6 +1,6 @@
 ---
 title: HAProxy + keepalived高可用集群
-date: 2025-12-26 013:00:00 +0800
+date: 2025-12-26 13:00:00 +0800
 categories: [高可用集群]
 tags: [HAProxy + keepalived]
 ---
