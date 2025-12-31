@@ -1,3 +1,9 @@
+---
+title: keepalived构建nginx高可用集群
+date: 2025-12-30 10:00:00 +0800
+categories: [高可用集群]
+tags: [keepalived + nginx]
+---
 **需求：部署基于nginx分发的高可用web集群**
 - 分发器故障自动切换
 - 数据服务器自动容错
