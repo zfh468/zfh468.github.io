@@ -211,7 +211,7 @@ ip addr | grep 192.168.64.100
 ipvsadm -Ln
 ```
 
-![[Pasted image 20260101090430.png]]
+![](/assets/img/Pasted image 20260101090430.png)
 
 
 
@@ -242,7 +242,7 @@ elinks http://192.168.64.100 --dump
 ```
 
 返回不同的页面
-![[Pasted image 20260101090725.png]]
+![](/assets/img/Pasted image 20260101090725.png)
 
 
 5.5、keepalived故障切换验证（重要！）
@@ -260,14 +260,14 @@ systemctl stop keepalived
 ```
 
 检查master的VIP是否已释放
-![[Pasted image 20260101093026.png]]
+![](/assets/img/Pasted image 20260101091422.png)
 这里master的VIP已经消失
 
 在backup检查VIP，已经迁移到backup
-![[Pasted image 20260101092913.png]]
+![](/assets/img/Pasted image 20260101092913.png)
 
 再elinks访问
-![[Pasted image 20260101091422.png]]
+![](/assets/img/Pasted image 20260101093026.png)
 如果还能如图上返回正常网页内容，可进行下一步测试。
 
 
@@ -279,7 +279,7 @@ systemctl stop httpd
 ```
 
 在客户端访问
-![[Pasted image 20260101093431.png]]
+![](/assets/img/Pasted image 20260101093431.png)
 
 用户只能访问到rs2的页面.
 
@@ -288,7 +288,7 @@ systemctl stop httpd
 ```
 tcpdump -nn -vvv vrrp
 ```
-![[Pasted image 20260101093731.png]]
+![](/assets/img/Pasted image 20260101093731.png)
 
 图中数据包内容解释：
 
