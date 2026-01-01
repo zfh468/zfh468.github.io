@@ -1,3 +1,9 @@
+---
+title: LVS + keepalived高可用集群部署
+date: 2025-12-31 20:00:00 +0800
+categories: [高可用集群]
+tags: [lvs，keepalived]
+---
 **目标**
 
 部署基于LVS DR模式的web高可用集群，实现：
