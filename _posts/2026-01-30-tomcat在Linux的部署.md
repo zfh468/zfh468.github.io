@@ -1,3 +1,9 @@
+---
+title: tomcat在Linux的部署
+date: 2026-01-30 12:00:00 +0800
+categories: [web服务器,tomcat]
+tags: [tomcat deploy]
+---
 **一、软件包下载**
 
 tomcat官网：<https://tomcat.apache.org/>
