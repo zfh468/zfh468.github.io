@@ -79,6 +79,6 @@ tcp   LISTEN 0      100                     *:8080            *:*    users:(("ja
 
 **四、访问默认首页**
 
-![[Pasted image 20260131034645.png]]
+![](/assets/img/Pasted image 20260131034645.png)
 
 tomcat的访问端口是8080
