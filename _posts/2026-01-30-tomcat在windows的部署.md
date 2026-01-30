@@ -1,3 +1,9 @@
+---
+title: tomcat在Windows部署
+date: 2026-01-30 12:00:00 +0800
+categories: [web服务器,tomcat]
+tags: [tomcat deploy]
+---
 **一、软件包获取**
 
 tomcat官网：<https://tomcat.apache.org/>
