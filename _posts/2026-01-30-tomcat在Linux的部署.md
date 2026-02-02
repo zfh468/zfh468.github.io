@@ -74,9 +74,10 @@ Using CLASSPATH:       /opt/tomcat1/bin/bootstrap.jar:/opt/tomcat1/bin/tomcat-ju
 Using CATALINA_OPTS:   
 Tomcat started.
 
-# tomcat的两个端口
+# tomcat的三个端口
 # 8005 是关闭tomcat使用的端口，可以使用telnet serverip 8005 ，然后输入大写的SHUTDOWN关闭tomcat，所以建议更改端口或改命令
 # 8080 是连接端口
+# 8009端口，使用AJP协议的端口，新版本tomcat默认被注释禁用
 [root@192 bin]# ss -tunlp | grep java
 tcp   LISTEN 0      1      [::ffff:127.0.0.1]:8005            *:*    users:(("java",pid=2119,fd=52)) 
 tcp   LISTEN 0      100                     *:8080            *:*    users:(("java",pid=2119,fd=44)) 
