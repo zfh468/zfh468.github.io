@@ -111,6 +111,7 @@ vim /etc/hosts
 192.168.1.7 b.com www.b.com
 ```
 
+192.168.1.7是nginx客户端的IP地址
 
 关闭selinux，nginx默认不能访问8080/8081这种后端端口
 
