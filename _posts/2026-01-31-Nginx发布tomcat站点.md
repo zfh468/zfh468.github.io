@@ -115,7 +115,7 @@ http://www.a.com
 http://www.b.com
 
 查看是否能访问到对应的网站内容，能看到说明实验成功
-![[Pasted image 20260205022937.png]]
+![](/assets/img/Pasted image 20260205022937.png)
 
 
 
