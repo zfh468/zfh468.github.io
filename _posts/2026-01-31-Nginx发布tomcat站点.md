@@ -1,3 +1,9 @@
+---
+title: nginx发布tomcat站点
+date: 2026-01-31 20:00:00 +0800
+categories: [web服务器,tomcat]
+tags: [nginx + tomcat]
+---
 之前访问tomcat站点都是类似http://ip/jpress这样的URL，比较麻烦，可以让tomcat站点通过nginx发布。
 
 发布方法有URL重写和反向代理。这里只写反向代理的内容。
