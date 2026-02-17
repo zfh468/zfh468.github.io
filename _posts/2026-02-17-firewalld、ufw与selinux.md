@@ -1,4 +1,9 @@
-
+---
+title: firewalld、ufw与selinux
+date: 2026-02-17 22:00:00 +0800
+categories: [Linux,系统管理]
+tags: [firewall]
+---
 RHEL系使用firewalld，Ubuntu、Debian等使用ufw
 
 
