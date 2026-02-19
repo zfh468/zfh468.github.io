@@ -12,7 +12,7 @@ reboot
 ```
 
 重启后
-![[Pasted image 20260220001839.png]]
+![](/assets/img/Pasted image 20260220001839.png)
 
 
 
@@ -61,11 +61,11 @@ vncserver :1
 
 2.5、在windows安装vnc viewer，输入ip地址:5901，再输入vnc密码连接
 
-![[Pasted image 20260220020655.png]]
+![](/assets/img/Pasted image 20260220020655.png)
 
 
 连接成功
-![[Pasted image 20260220020742.png]]
+![](/assets/img/Pasted image 20260220020742.png)
 
 
 
