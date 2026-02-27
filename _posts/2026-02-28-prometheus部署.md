@@ -28,15 +28,15 @@ sudo firewall-cmd --reload
 1.4、web访问Prometheus
 
 浏览器访问http://ip:9090，看到 Prometheus的UI代表部署成功
-![[Pasted image 20260228063641.png]]
+![](/assets/img/Pasted image 20260228063641.png)
 
 
 点击status > Target health可以看到被监控的主机，默认情况只监控自己
 
-![[Pasted image 20260228063905.png]]
+![](/assets/img/Pasted image 20260228063905.png)
 
 访问http://ip:9090/metrics，看抓取的监控数据
-![[Pasted image 20260228064046.png]]
+![](/assets/img/Pasted image 20260228064046.png)
 
 prometheus把监控的数据都统一存放在一起,然后生成一个web页面,用户可以通过web页面查看相关的数据,这些数据遵循了时序数据库的格式,也就是key=value的形式.这些数据就是我们的监控指标
 
