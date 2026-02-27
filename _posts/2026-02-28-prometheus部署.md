@@ -1,4 +1,9 @@
-
+---
+title: prometheus部署
+date: 2026-02-28 00:00:00 +0800
+categories: [prometheus + grafana]
+tags: [prometheus deploy]
+---
 ### 一、下载并安装Prometheus
 
 官方下载地址<https://prometheus.io/download/>
