@@ -1,3 +1,9 @@
+---
+title: kvm创建windows10虚拟机
+date: 2026-01-20 10:00:00 +0800
+categories: [Linux,kvm]
+tags: [virt-install]
+---
 
 #### 1、准备
 
@@ -49,7 +55,7 @@ virt-install \
 #### 3、 安装过程中的关键步骤
 
 
-![[Pasted image 20260310135958.png]]
+![]((/assets/img/Pasted image 20260310135958.png)
 
 当通过 VNC 连接到虚拟机并开始安装时，会遇到“找不到驱动器”的情况。按以下步骤操作：
 
@@ -60,10 +66,10 @@ virt-install \
 3. **点进去**：
     
     - **磁盘驱动**：选择 `viostor\w10\amd64`目录。
-    ![[Pasted image 20260310140529.png]]
+    ![](/assets/img/Pasted image 20260310140529.png)
 		按照上面的路径点击后，列表里会出现一个 **"Red Hat VirtIO SCSI controller"** 之类的选项，选中它点击下一页
 
-![[Pasted image 20260310140718.png]]
+![](/assets/img/Pasted image 20260310140718.png)
 		稍等片刻，出现50GB磁盘驱动器，继续安装即可，不用多说
 
 
@@ -89,7 +95,7 @@ virt-install \
 
 或者也可以选择没有internet连接
 继续执行受限设置
-![[Pasted image 20260310144410.png]]
+![](/assets/img/Pasted image 20260310144410.png)
 
 
     
