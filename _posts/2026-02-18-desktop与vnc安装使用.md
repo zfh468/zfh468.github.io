@@ -1,7 +1,7 @@
 ---
 title: desktop与vnc安装使用
 date: 2026-02-18 12:00:00 +0800
-categories: [Linux,系统管理]
+categories: [tool]
 tags: [desktop vnc]
 ---
 **一、Linux桌面安装**
