@@ -91,7 +91,7 @@ systemctl restart prometheus
 
 应该出现下面的内容
 
-![[Pasted image 20260904153207.png]]
+![](/assets/img/Pasted image 20260904153207.png)
 
 node代表host1主机，cadvisor代表host1上运行的容器。
 
@@ -212,12 +212,12 @@ docker stop node-exporter
 
 在Prometheus看见node已经 `DOWN` 掉了
 
-![[Pasted image 20260904162850.png]]
+![](/assets/img/Pasted image 20260904162850.png)
 
 
 同时，host2的9093端口，在alertmanager看见告警
 
-![[Pasted image 20260904163127.png]]
+![](/assets/img/Pasted image 20260904163127.png)
 
 
 host1重启启动node
@@ -356,7 +356,7 @@ docker ps
 
 成功即可
 
-![[Pasted image 20260904164311.png]]
+![](/assets/img/Pasted image 20260904164311.png)
 
 
 
@@ -376,14 +376,14 @@ docker logs --tail 20 nginx
 
 访问grafana
 
-![[Pasted image 20260904164547.png]]
+![](/assets/img/Pasted image 20260904164547.png)
 
 查询docker容器日志
 ```
 {job="docker"}
 ```
 
-![[Pasted image 20260904164624.png]]
+![](/assets/img/Pasted image 20260904164624.png)
 
 输入查询语句后，点击 `Run query` 
 
@@ -391,7 +391,7 @@ docker logs --tail 20 nginx
 
 看到docker容器日志
 
-![[Pasted image 20260904164913.png]]
+![](/assets/img/Pasted image 20260904164913.png)
 
 
 
