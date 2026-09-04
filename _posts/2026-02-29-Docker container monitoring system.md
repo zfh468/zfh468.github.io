@@ -263,7 +263,7 @@ Dashboards
 
 进入容器的监控面板，可以监控容器的cpu、内存、磁盘、网络状况
 
-![](/assets/img/Pasted image 20260904142628.png)
+![](/assets/img/Pasted image 20260904160741.png)
 
 
 
